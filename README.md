@@ -4,9 +4,6 @@
 </h2>
 </div>
 <div align="center">
-  <h4>Un travail effectué par BERTRAND Grégory & GUEZ Daniel</h4>
-</div>
-<div align="center">
   <h4>Ecole Nationale Superieure des Mines de Saint-Etienne</h4>
 </div>
 <div align="center">
