@@ -7,7 +7,10 @@
   <h4>Un travail effectué par BERTRAND Grégory & GUEZ Daniel</h4>
 </div>
 <div align="center">
-  <h4>ES-3A</h4>
+  <h4>Ecole Nationale Superieure des Mines de Saint-Etienne</h4>
+</div>
+<div align="center">
+  <h4>3ème année</h4>
 </div>
 
 <div align="center">
